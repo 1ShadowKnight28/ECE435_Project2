@@ -63,50 +63,60 @@
         android:id="@+id/imageButton4"
         android:layout_width="120dp"
         android:layout_height="120dp"
+        android:layout_marginEnd="63dp"
         android:layout_marginBottom="70dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:srcCompat="@drawable/star"
-        tools:layout_editor_absoluteX="228dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/star" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="86dp"
+        android:layout_marginTop="5dp"
         android:text="Geography"
-        tools:layout_editor_absoluteX="86dp"
-        tools:layout_editor_absoluteY="488dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/geographyBtn" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="98dp"
         android:text="History"
-        tools:layout_editor_absoluteX="268dp"
-        tools:layout_editor_absoluteY="487dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton2" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="98dp"
+        android:layout_marginTop="2dp"
         android:text="Science"
-        tools:layout_editor_absoluteX="98dp"
-        tools:layout_editor_absoluteY="659dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton3" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="85dp"
         android:text="Pop Culture"
-        tools:layout_editor_absoluteX="253dp"
-        tools:layout_editor_absoluteY="659dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton4" />
 
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
         android:onClick="hello"
         android:text="Button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="196dp" />
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
 </androidx.constraintlayout.widget.ConstraintLayout>
