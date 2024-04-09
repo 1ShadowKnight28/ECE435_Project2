@@ -1,4 +1,4 @@
-package com.example.quizgame;
+package com.example.quizgame.fragments;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,6 +8,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+
+import com.example.quizgame.GeographyEasy;
+import com.example.quizgame.R;
+import com.example.quizgame.StartPage;
 
 public class EasyTab extends Fragment {
     Button easy;

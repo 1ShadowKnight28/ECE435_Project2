@@ -7,6 +7,12 @@
     android:layout_height="match_parent"
     tools:context=".Difficulty">
 
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewpage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tabLayout" />
+
     <com.google.android.material.tabs.TabLayout
         android:id="@+id/tabLayout"
         android:layout_width="match_parent"
@@ -30,12 +36,6 @@
             android:layout_height="wrap_content"
             android:text="Expert" />
     </com.google.android.material.tabs.TabLayout>
-
-    <androidx.viewpager2.widget.ViewPager2
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id = "@+id/viewpage"
-        android:layout_below = "@+id/tabLayout"/>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
