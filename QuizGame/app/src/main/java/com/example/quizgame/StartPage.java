@@ -17,30 +17,62 @@ import androidx.core.view.WindowInsetsCompat;
 public class StartPage extends AppCompatActivity {
 
 
-    ImageButton geographyBtn;
+    ImageButton geographyBtn, scienceBtn, popcultureBtn, historyBtn;
+    public static String subject;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //EdgeToEdge.enable(this);
         setContentView(R.layout.start_page);
-        //ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
-          //  Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
-            //v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
-            //return insets;
-        //});
+
         geographyBtn = findViewById(R.id.geographyBtn);
+        scienceBtn = findViewById(R.id.scienceBtn);
+        popcultureBtn = findViewById(R.id.popcultureBtn);
+        historyBtn = findViewById(R.id.historyBtn);
+
 
 
         geographyBtn.setOnClickListener(new View.OnClickListener(){
 
             @Override
             public void onClick(View v) {
-                Intent goToGeography = new Intent(StartPage.this, Geography.class);
-                startActivity(goToGeography);
+                subject = "geo";
+                Intent goToDifficulty = new Intent(StartPage.this, Difficulty.class);
+                startActivity(goToDifficulty);
 
             }
         });
+        scienceBtn.setOnClickListener(new View.OnClickListener(){
+
+            @Override
+            public void onClick(View v) {
+                Intent goToDifficulty = new Intent(StartPage.this, Difficulty.class);
+                startActivity(goToDifficulty);
+
+            }
+        });
+
+        popcultureBtn.setOnClickListener(new View.OnClickListener(){
+
+            @Override
+            public void onClick(View v) {
+                Intent goToDifficulty = new Intent(StartPage.this, Difficulty.class);
+                startActivity(goToDifficulty);
+
+            }
+        });
+
+        historyBtn.setOnClickListener(new View.OnClickListener(){
+
+            @Override
+            public void onClick(View v) {
+                Intent goToDifficulty = new Intent(StartPage.this, Difficulty.class);
+                startActivity(goToDifficulty);
+
+            }
+        });
+
+
 
 
     }
