@@ -46,6 +46,7 @@ public class StartPage extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
+                subject = "science";
                 Intent goToDifficulty = new Intent(StartPage.this, Difficulty.class);
                 startActivity(goToDifficulty);
 
@@ -56,6 +57,7 @@ public class StartPage extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
+                subject = "pop";
                 Intent goToDifficulty = new Intent(StartPage.this, Difficulty.class);
                 startActivity(goToDifficulty);
 
@@ -66,6 +68,7 @@ public class StartPage extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
+                subject = "history";
                 Intent goToDifficulty = new Intent(StartPage.this, Difficulty.class);
                 startActivity(goToDifficulty);
 

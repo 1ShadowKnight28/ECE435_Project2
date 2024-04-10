@@ -10,7 +10,10 @@ import android.view.ViewGroup;
 import android.widget.Button;
 
 import com.example.quizgame.GeographyEasy;
+import com.example.quizgame.HistoryEasy;
+import com.example.quizgame.PopCultureEasy;
 import com.example.quizgame.R;
+import com.example.quizgame.ScienceEasy;
 import com.example.quizgame.StartPage;
 
 public class EasyTab extends Fragment {
@@ -29,11 +32,19 @@ public class EasyTab extends Fragment {
                 if(StartPage.subject == "geo"){
                     Intent goToGeoEasy = new Intent(getActivity(), GeographyEasy.class);
                     startActivity(goToGeoEasy);
-                } //else if (StartPage.subject == "hist") {
-                    //Intent goToHistEasy = new Intent(getActivity(), HistoryEasy.class);
-                    //startActivity(goToHistEasy);
+                } else if (StartPage.subject == "history") {
+                    Intent goToHistEasy = new Intent(getActivity(), HistoryEasy.class);
+                    startActivity(goToHistEasy);
 
-               // }
+                }else if (StartPage.subject == "science") {
+                    Intent goToSciEasy = new Intent(getActivity(), ScienceEasy.class);
+                    startActivity(goToSciEasy);
+
+                }else if (StartPage.subject == "pop") {
+                    Intent goToPopEasy = new Intent(getActivity(), PopCultureEasy.class);
+                    startActivity(goToPopEasy);
+
+                }
 
             }
         });

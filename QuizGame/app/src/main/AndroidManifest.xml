@@ -13,6 +13,36 @@
         android:theme="@style/Theme.QuizGame"
         tools:targetApi="31">
         <activity
+            android:name=".ScienceHard"
+            android:exported="false" />
+        <activity
+            android:name=".ScienceMedium"
+            android:exported="false" />
+        <activity
+            android:name=".ScienceEasy"
+            android:exported="false" />
+        <activity
+            android:name=".PopCultureHard"
+            android:exported="false" />
+        <activity
+            android:name=".PopCultureMedium"
+            android:exported="false" />
+        <activity
+            android:name=".PopCultureEasy"
+            android:exported="false" />
+        <activity
+            android:name=".HistoryHard"
+            android:exported="false" />
+        <activity
+            android:name=".HistoryMedium"
+            android:exported="false" />
+        <activity
+            android:name=".GeographyHard"
+            android:exported="false" />
+        <activity
+            android:name=".GeographyMedium"
+            android:exported="false" />
+        <activity
             android:name=".Difficulty"
             android:exported="false" />
         <activity
