@@ -19,6 +19,7 @@ public class StartPage extends AppCompatActivity {
 
     ImageButton geographyBtn, scienceBtn, popcultureBtn, historyBtn;
     public static String subject;
+    public static int points = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
