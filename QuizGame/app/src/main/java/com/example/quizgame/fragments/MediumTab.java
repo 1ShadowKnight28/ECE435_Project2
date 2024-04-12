@@ -10,14 +10,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
-import com.example.quizgame.GeographyEasy;
 import com.example.quizgame.GeographyMedium;
-import com.example.quizgame.HistoryEasy;
 import com.example.quizgame.HistoryMedium;
-import com.example.quizgame.PopCultureEasy;
 import com.example.quizgame.PopCultureMedium;
 import com.example.quizgame.R;
-import com.example.quizgame.ScienceEasy;
 import com.example.quizgame.ScienceMedium;
 import com.example.quizgame.StartPage;
 

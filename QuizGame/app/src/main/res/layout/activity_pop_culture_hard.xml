@@ -22,7 +22,7 @@
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 1:"
+                android:text="Question 1: Which character famously said, May the Force be with you in the Star Wars film series?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -30,31 +30,31 @@
                 android:id="@+id/radioButton5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Darth Vader" />
 
             <RadioButton
                 android:id="@+id/radioButton6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Yoda" />
 
             <RadioButton
-                android:id="@+id/radioButton7"
+                android:id="@+id/answer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Obi-Wan Kenobi" />
 
             <RadioButton
                 android:id="@+id/radioButton8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Han Solo" />
 
             <TextView
                 android:id="@+id/textView1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 2:"
+                android:text="Question 2: In the TV series Breaking Bad, what is the street name of the high-quality blue methamphetamine produced by Walter White?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -62,121 +62,121 @@
                 android:id="@+id/radioButton9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Blue Ice" />
 
             <RadioButton
                 android:id="@+id/radioButton10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Blue Dream" />
 
             <RadioButton
                 android:id="@+id/radioButton11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Blue Magic" />
 
             <RadioButton
-                android:id="@+id/radioButton12"
+                android:id="@+id/answer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Blue Sky" />
 
             <TextView
                 android:id="@+id/textView2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 3:"
+                android:text="Question 3: Who directed the 1994 film Pulp Fiction?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/radioButton13"
+                android:id="@+id/answer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Quentin Tarantino" />
 
             <RadioButton
                 android:id="@+id/radioButton17"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Martin Scorsese" />
 
             <RadioButton
                 android:id="@+id/radioButton16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Steven Spielberg" />
 
             <RadioButton
                 android:id="@+id/radioButton15"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Christopher Nolan" />
 
             <TextView
                 android:id="@+id/textView3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 4:"
+                android:text="Question 4: Which actor portrayed the character of Tyler Durden in the film Fight Club?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/radioButton14"
+                android:id="@+id/answer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Brad Pitt" />
 
             <RadioButton
                 android:id="@+id/radioButton20"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Edward Norton" />
 
             <RadioButton
                 android:id="@+id/radioButton19"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Leonardo DiCaprio" />
 
             <RadioButton
                 android:id="@+id/radioButton18"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Johnny Depp" />
 
             <TextView
                 android:id="@+id/textView5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 5:"
+                android:text="Question 5: What is the name of the fictional city where the TV series The Simpsons is set?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/radioButton24"
+                android:id="@+id/answer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Springfield" />
 
             <RadioButton
                 android:id="@+id/radioButton23"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Quahog" />
 
             <RadioButton
                 android:id="@+id/radioButton22"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="South Park" />
 
             <RadioButton
                 android:id="@+id/radioButton21"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Arlen" />
 
             <Button
                 android:id="@+id/finishButton"

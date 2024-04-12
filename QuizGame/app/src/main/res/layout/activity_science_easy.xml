@@ -22,7 +22,7 @@
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 1:"
+                android:text="Question 1: What is the closest star to Earth?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -30,63 +30,63 @@
                 android:id="@+id/radioButton5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Alpha Centauri" />
 
             <RadioButton
-                android:id="@+id/radioButton6"
+                android:id="@+id/answer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Proxima Centauri" />
 
             <RadioButton
                 android:id="@+id/radioButton7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Sirius" />
 
             <RadioButton
                 android:id="@+id/radioButton8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Betelgeuse" />
 
             <TextView
                 android:id="@+id/textView1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 2:"
+                android:text="Question 2: What is the chemical symbol for water?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/radioButton9"
+                android:id="@+id/answer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="H2O" />
 
             <RadioButton
                 android:id="@+id/radioButton10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="CO2" />
 
             <RadioButton
                 android:id="@+id/radioButton11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="NaCl" />
 
             <RadioButton
                 android:id="@+id/radioButton12"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="CH4" />
 
             <TextView
                 android:id="@+id/textView2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 3:"
+                android:text="Question 3: Which planet is known as the Red Planet?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -94,31 +94,31 @@
                 android:id="@+id/radioButton13"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Venus" />
 
             <RadioButton
-                android:id="@+id/radioButton17"
+                android:id="@+id/answer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Mars" />
 
             <RadioButton
                 android:id="@+id/radioButton16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Jupiter" />
 
             <RadioButton
                 android:id="@+id/radioButton15"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Saturn" />
 
             <TextView
                 android:id="@+id/textView3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 4:"
+                android:text="Question 4: What is the force that pulls objects towards the center of the Earth?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -126,31 +126,31 @@
                 android:id="@+id/radioButton14"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Magnetism" />
 
             <RadioButton
                 android:id="@+id/radioButton20"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Friction" />
 
             <RadioButton
                 android:id="@+id/radioButton19"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Inertia" />
 
             <RadioButton
-                android:id="@+id/radioButton18"
+                android:id="@+id/answer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Gravity" />
 
             <TextView
                 android:id="@+id/textView5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 5:"
+                android:text="Question 5: What is the powerhouse of the cell?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -158,25 +158,25 @@
                 android:id="@+id/radioButton24"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Nucleus" />
 
             <RadioButton
                 android:id="@+id/radioButton23"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Cell Membrane" />
 
             <RadioButton
-                android:id="@+id/radioButton22"
+                android:id="@+id/answer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Mitochondria" />
 
             <RadioButton
                 android:id="@+id/radioButton21"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Ribosome" />
 
             <Button
                 android:id="@+id/finishButton"

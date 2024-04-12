@@ -22,39 +22,39 @@
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 1:"
+                android:text="Question 1: Who was the first emperor of unified China?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/radioButton5"
+                android:id="@+id/answer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Qin Shi Huang" />
 
             <RadioButton
                 android:id="@+id/radioButton6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Confucius" />
 
             <RadioButton
                 android:id="@+id/radioButton7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Sun Tzu" />
 
             <RadioButton
                 android:id="@+id/radioButton8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Laozi" />
 
             <TextView
                 android:id="@+id/textView1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 2:"
+                android:text="Question 2: Which ancient civilization built the pyramids of Giza?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -62,95 +62,95 @@
                 android:id="@+id/radioButton9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Greece" />
 
             <RadioButton
                 android:id="@+id/radioButton10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Rome" />
 
             <RadioButton
-                android:id="@+id/radioButton11"
+                android:id="@+id/answer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Egypt" />
 
             <RadioButton
                 android:id="@+id/radioButton12"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Mesopotamia" />
 
             <TextView
                 android:id="@+id/textView2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 3:"
+                android:text="Question 3: Who was the first explorer to circumnavigate the globe?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/radioButton13"
+                android:id="@+id/answer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Ferdinand Magellan" />
 
             <RadioButton
                 android:id="@+id/radioButton17"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Christopher Columbus" />
 
             <RadioButton
                 android:id="@+id/radioButton16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Vasco da Gama" />
 
             <RadioButton
                 android:id="@+id/radioButton15"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Marco Polo" />
 
             <TextView
                 android:id="@+id/textView3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 4:"
+                android:text="Question 4: The Treaty of Versailles officially ended which major conflict?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/radioButton14"
+                android:id="@+id/answer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="WWI" />
 
             <RadioButton
                 android:id="@+id/radioButton20"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="WWII" />
 
             <RadioButton
                 android:id="@+id/radioButton19"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="The American Civil War" />
 
             <RadioButton
                 android:id="@+id/radioButton18"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="The Napoleonic Wars" />
 
             <TextView
                 android:id="@+id/textView5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 5:"
+                android:text="Question 5: Who was the first president of the United States to be impeached?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -158,25 +158,25 @@
                 android:id="@+id/radioButton24"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Richard Nixon" />
 
             <RadioButton
-                android:id="@+id/radioButton23"
+                android:id="@+id/answer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Andrew Johnson" />
 
             <RadioButton
                 android:id="@+id/radioButton22"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Bill Clinton" />
 
             <RadioButton
                 android:id="@+id/radioButton21"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Donald Trump" />
 
             <Button
                 android:id="@+id/finishButton"

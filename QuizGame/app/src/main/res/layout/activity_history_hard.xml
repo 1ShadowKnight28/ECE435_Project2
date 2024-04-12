@@ -22,71 +22,71 @@
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 1:"
+                android:text="Question 1: Who was the last pharaoh of ancient Egypt?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/radioButton5"
+                android:id="@+id/answer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Cleopatra VII" />
 
             <RadioButton
                 android:id="@+id/radioButton6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Ramses II" />
 
             <RadioButton
                 android:id="@+id/radioButton7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Tutankhamun" />
 
             <RadioButton
                 android:id="@+id/radioButton8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Hatshepsut" />
 
             <TextView
                 android:id="@+id/textView1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 2:"
+                android:text="Question 2: Which battle is considered the turning point of the American Civil War?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/radioButton9"
+                android:id="@+id/answer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Battle of Gettysburg" />
 
             <RadioButton
                 android:id="@+id/radioButton10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Battle of Antietam" />
 
             <RadioButton
                 android:id="@+id/radioButton11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Battle of Vicksburg" />
 
             <RadioButton
                 android:id="@+id/radioButton12"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Battle of Bull Run" />
 
             <TextView
                 android:id="@+id/textView2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 3:"
+                android:text="Question 3: Who was the longest-reigning monarch in British history?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -94,31 +94,31 @@
                 android:id="@+id/radioButton13"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Queen Elizabeth II" />
 
             <RadioButton
                 android:id="@+id/radioButton17"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="King George III" />
 
             <RadioButton
-                android:id="@+id/radioButton16"
+                android:id="@+id/answer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Queen Victoria" />
 
             <RadioButton
                 android:id="@+id/radioButton15"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="King Henry VIII" />
 
             <TextView
                 android:id="@+id/textView3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 4:"
+                android:text="Question 4: Who was the first female pharaoh of ancient Egypt?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -126,31 +126,31 @@
                 android:id="@+id/radioButton14"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Cleopatra VII" />
 
             <RadioButton
-                android:id="@+id/radioButton20"
+                android:id="@+id/answer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Hatshepsut" />
 
             <RadioButton
                 android:id="@+id/radioButton19"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Nefertiti" />
 
             <RadioButton
                 android:id="@+id/radioButton18"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Ankhesenamun" />
 
             <TextView
                 android:id="@+id/textView5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 5:"
+                android:text="Question 5: Which emperor is known for issuing the Edict of Milan, which granted religious tolerance to Christians in the Roman Empire?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -158,25 +158,25 @@
                 android:id="@+id/radioButton24"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Julius Caesar" />
 
             <RadioButton
                 android:id="@+id/radioButton23"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Augustus" />
 
             <RadioButton
-                android:id="@+id/radioButton22"
+                android:id="@+id/answer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Constantine the Great " />
 
             <RadioButton
                 android:id="@+id/radioButton21"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Nero" />
 
             <Button
                 android:id="@+id/finishButton"

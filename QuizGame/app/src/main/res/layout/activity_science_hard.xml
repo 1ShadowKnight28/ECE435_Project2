@@ -22,7 +22,7 @@
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 1:"
+                android:text="Question 1: What is the phenomenon where light is bent as it passes through a medium with different density called?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -30,31 +30,31 @@
                 android:id="@+id/radioButton5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Reflection" />
 
             <RadioButton
-                android:id="@+id/radioButton6"
+                android:id="@+id/answer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Refraction" />
 
             <RadioButton
                 android:id="@+id/radioButton7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Diffraction" />
 
             <RadioButton
                 android:id="@+id/radioButton8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Dispersion" />
 
             <TextView
                 android:id="@+id/textView1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 2:"
+                android:text="Question 2: What is the name of the process where a cell engulfs solid particles by extending its cell membrane around them?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -62,31 +62,31 @@
                 android:id="@+id/radioButton9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Pinocytosis" />
 
             <RadioButton
-                android:id="@+id/radioButton10"
+                android:id="@+id/answer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Phagocytosis" />
 
             <RadioButton
                 android:id="@+id/radioButton11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Endocytosis" />
 
             <RadioButton
                 android:id="@+id/radioButton12"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Exocytosis" />
 
             <TextView
                 android:id="@+id/textView2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 3:"
+                android:text="Question 3: What is the unit of measurement for the rate at which work is done or energy is transferred?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -94,31 +94,31 @@
                 android:id="@+id/radioButton13"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Joule" />
 
             <RadioButton
                 android:id="@+id/radioButton17"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Newton" />
 
             <RadioButton
                 android:id="@+id/radioButton16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Ampere" />
 
             <RadioButton
-                android:id="@+id/radioButton15"
+                android:id="@+id/answer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Watt" />
 
             <TextView
                 android:id="@+id/textView3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 4:"
+                android:text="Question 4: What is the name of the largest type of blood vessels in the human body?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -126,31 +126,31 @@
                 android:id="@+id/radioButton14"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Arterioles" />
 
             <RadioButton
                 android:id="@+id/radioButton20"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Veins" />
 
             <RadioButton
                 android:id="@+id/radioButton19"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Capillaries" />
 
             <RadioButton
-                android:id="@+id/radioButton18"
+                android:id="@+id/answer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Arteries" />
 
             <TextView
                 android:id="@+id/textView5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Question 5:"
+                android:text="Question 5: What is the process by which radioactive elements decay and emit particles and energy called?"
                 android:textAlignment="center"
                 android:textSize="20sp" />
 
@@ -158,25 +158,25 @@
                 android:id="@+id/radioButton24"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Nuclear Fission" />
 
             <RadioButton
                 android:id="@+id/radioButton23"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Nuclear Fusion" />
 
             <RadioButton
-                android:id="@+id/radioButton22"
+                android:id="@+id/answer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Radioactive decay" />
 
             <RadioButton
                 android:id="@+id/radioButton21"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="RadioButton" />
+                android:text="Half-life" />
 
             <Button
                 android:id="@+id/finishButton"
