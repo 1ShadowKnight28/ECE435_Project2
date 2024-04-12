@@ -39,7 +39,7 @@
                 android:text="Abraham Lincoln" />
 
             <RadioButton
-                android:id="@+id/answer1"
+                android:id="@+id/HEanswer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="George Washington" />
@@ -59,7 +59,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer2"
+                android:id="@+id/HEanswer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="1945" />
@@ -91,7 +91,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer3"
+                android:id="@+id/HEanswer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Thomas Jefferson" />
@@ -129,7 +129,7 @@
                 android:text="Athens" />
 
             <RadioButton
-                android:id="@+id/answer4"
+                android:id="@+id/HEanswer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Rome" />
@@ -173,7 +173,7 @@
                 android:text="Theresa May" />
 
             <RadioButton
-                android:id="@+id/answer5"
+                android:id="@+id/HEanswer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Margaret Thatcher" />

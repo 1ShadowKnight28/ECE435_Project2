@@ -33,7 +33,7 @@
                 android:text="Ag" />
 
             <RadioButton
-                android:id="@+id/answer1"
+                android:id="@+id/SManswer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Au" />
@@ -59,7 +59,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer2"
+                android:id="@+id/SManswer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Nitrogen" />
@@ -103,7 +103,7 @@
                 android:text="Digestion" />
 
             <RadioButton
-                android:id="@+id/answer3"
+                android:id="@+id/SManswer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Photosynthesis" />
@@ -135,7 +135,7 @@
                 android:text="Volts" />
 
             <RadioButton
-                android:id="@+id/answer4"
+                android:id="@+id/SManswer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Ampere" />
@@ -155,7 +155,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer5"
+                android:id="@+id/SManswer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Atom" />

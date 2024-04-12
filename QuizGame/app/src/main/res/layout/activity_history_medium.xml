@@ -27,7 +27,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer1"
+                android:id="@+id/HManswer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Qin Shi Huang" />
@@ -71,7 +71,7 @@
                 android:text="Rome" />
 
             <RadioButton
-                android:id="@+id/answer2"
+                android:id="@+id/HManswer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Egypt" />
@@ -91,7 +91,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer3"
+                android:id="@+id/HManswer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Ferdinand Magellan" />
@@ -123,7 +123,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer4"
+                android:id="@+id/HManswer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="WWI" />
@@ -161,7 +161,7 @@
                 android:text="Richard Nixon" />
 
             <RadioButton
-                android:id="@+id/answer5"
+                android:id="@+id/HManswer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Andrew Johnson" />

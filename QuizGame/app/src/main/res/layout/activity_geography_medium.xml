@@ -33,7 +33,7 @@
                 android:text="Norway" />
 
             <RadioButton
-                android:id="@+id/answer1"
+                android:id="@+id/GManswer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Finland" />
@@ -65,7 +65,7 @@
                 android:text="Melbourne" />
 
             <RadioButton
-                android:id="@+id/answer2"
+                android:id="@+id/GManswer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Canberra" />
@@ -109,7 +109,7 @@
                 android:text="Greece" />
 
             <RadioButton
-                android:id="@+id/answer3"
+                android:id="@+id/GManswer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Switzerland" />
@@ -129,7 +129,7 @@
                 android:text="Peso" />
 
             <RadioButton
-                android:id="@+id/answer4"
+                android:id="@+id/GManswer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Real" />
@@ -167,7 +167,7 @@
                 android:text="Rhine" />
 
             <RadioButton
-                android:id="@+id/answer5"
+                android:id="@+id/GManswer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Volga" />

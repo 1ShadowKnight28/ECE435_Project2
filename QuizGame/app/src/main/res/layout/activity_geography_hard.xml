@@ -33,7 +33,7 @@
                 android:text="Chile" />
 
             <RadioButton
-                android:id="@+id/answer1"
+                android:id="@+id/GHanswer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Columbia" />
@@ -65,7 +65,7 @@
                 android:text="Kenya" />
 
             <RadioButton
-                android:id="@+id/answer2"
+                android:id="@+id/GHanswer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Tanzania" />
@@ -109,7 +109,7 @@
                 android:text="Buenos Aires, Argentina" />
 
             <RadioButton
-                android:id="@+id/answer3"
+                android:id="@+id/GHanswer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Santiago, Chile" />
@@ -141,7 +141,7 @@
                 android:text="Lake Ontario" />
 
             <RadioButton
-                android:id="@+id/answer4"
+                android:id="@+id/GHanswer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Lake Tahoe" />
@@ -167,7 +167,7 @@
                 android:text="Himalayas" />
 
             <RadioButton
-                android:id="@+id/answer5"
+                android:id="@+id/GHanswer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Ural Mountains" />

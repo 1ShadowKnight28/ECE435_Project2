@@ -27,7 +27,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer1"
+                android:id="@+id/HHanswer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Cleopatra VII" />
@@ -59,7 +59,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer2"
+                android:id="@+id/HHanswer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Battle of Gettysburg" />
@@ -103,7 +103,7 @@
                 android:text="King George III" />
 
             <RadioButton
-                android:id="@+id/answer3"
+                android:id="@+id/HHanswer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Queen Victoria" />
@@ -129,7 +129,7 @@
                 android:text="Cleopatra VII" />
 
             <RadioButton
-                android:id="@+id/answer4"
+                android:id="@+id/HHanswer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Hatshepsut" />
@@ -167,7 +167,7 @@
                 android:text="Augustus" />
 
             <RadioButton
-                android:id="@+id/answer5"
+                android:id="@+id/HHanswer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Constantine the Great " />

@@ -33,7 +33,7 @@
                 android:text="Alpha Centauri" />
 
             <RadioButton
-                android:id="@+id/answer1"
+                android:id="@+id/SEanswer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Proxima Centauri" />
@@ -59,7 +59,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer2"
+                android:id="@+id/SEanswer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="H2O" />
@@ -97,7 +97,7 @@
                 android:text="Venus" />
 
             <RadioButton
-                android:id="@+id/answer3"
+                android:id="@+id/SEanswer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Mars" />
@@ -141,7 +141,7 @@
                 android:text="Inertia" />
 
             <RadioButton
-                android:id="@+id/answer4"
+                android:id="@+id/SEanswer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Gravity" />
@@ -167,7 +167,7 @@
                 android:text="Cell Membrane" />
 
             <RadioButton
-                android:id="@+id/answer5"
+                android:id="@+id/SEanswer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Mitochondria" />

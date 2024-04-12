@@ -33,7 +33,7 @@
                 android:text="Elvis Presley" />
 
             <RadioButton
-                android:id="@+id/answer1"
+                android:id="@+id/PEanswer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Michael Jackson" />
@@ -71,7 +71,7 @@
                 android:text="The Hunger Games" />
 
             <RadioButton
-                android:id="@+id/answer2"
+                android:id="@+id/PEanswer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Harry Potter" />
@@ -91,7 +91,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer3"
+                android:id="@+id/PEanswer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="John Lennon" />
@@ -123,7 +123,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer4"
+                android:id="@+id/PEanswer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Friends" />
@@ -155,7 +155,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer5"
+                android:id="@+id/PEanswer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="J.K. Rowling" />

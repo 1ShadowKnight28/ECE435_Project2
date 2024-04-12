@@ -39,7 +39,7 @@
                 android:text="Yoda" />
 
             <RadioButton
-                android:id="@+id/answer1"
+                android:id="@+id/PHanswer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Obi-Wan Kenobi" />
@@ -77,7 +77,7 @@
                 android:text="Blue Magic" />
 
             <RadioButton
-                android:id="@+id/answer2"
+                android:id="@+id/PHanswer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Blue Sky" />
@@ -91,7 +91,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer3"
+                android:id="@+id/PHanswer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Quentin Tarantino" />
@@ -123,7 +123,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer4"
+                android:id="@+id/PHanswer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Brad Pitt" />
@@ -155,7 +155,7 @@
                 android:textSize="20sp" />
 
             <RadioButton
-                android:id="@+id/answer5"
+                android:id="@+id/PHanswer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Springfield" />

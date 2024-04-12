@@ -22,37 +22,44 @@ public class GeographyEasy extends AppCompatActivity {
         setContentView(R.layout.activity_geography_easy);
 
         finish = findViewById(R.id.finishButton);
+        StartPage.points = 0;
+
+        RadioButton GE1 = findViewById(R.id.GEanswer1);
+        RadioButton GE2 = findViewById(R.id.GEanswer2);
+        RadioButton GE3 = findViewById(R.id.GEanswer3);
+        RadioButton GE4 = findViewById(R.id.GEanswer4);
+        RadioButton GE5 = findViewById(R.id.GEanswer5);
 
         finish.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                if (GE1.isChecked()) {
+                    StartPage.points++;
+                }
+                if (GE2.isChecked()) {
+                    StartPage.points++;
+                }
+                if (GE3.isChecked()) {
+                    StartPage.points++;
+                }
+                if (GE4.isChecked()) {
+                    StartPage.points++;
+                }
+                if (GE5.isChecked()) {
+                    StartPage.points++;
+                }
+
+
                 Intent goToScore = new Intent(GeographyEasy.this, ScorePage.class);
                 startActivity(goToScore);
             }
         });
 
-        RadioButton answer1 = findViewById(R.id.answer1);
-        RadioButton answer2 = findViewById(R.id.answer2);
-        RadioButton answer3 = findViewById(R.id.answer3);
-        RadioButton answer4 = findViewById(R.id.answer4);
-        RadioButton answer5 = findViewById(R.id.answer5);
 
 
-        if (answer1.isChecked()) {
-            StartPage.points++;
-        }
-        if (answer2.isChecked()) {
-            StartPage.points++;
-        }
-        if (answer3.isChecked()) {
-            StartPage.points++;
-        }
-        if (answer4.isChecked()) {
-            StartPage.points++;
-        }
-        if (answer5.isChecked()) {
-            StartPage.points++;
-        }
+
+
 
 
 

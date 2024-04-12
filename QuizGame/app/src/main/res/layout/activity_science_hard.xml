@@ -33,7 +33,7 @@
                 android:text="Reflection" />
 
             <RadioButton
-                android:id="@+id/answer1"
+                android:id="@+id/SHanswer1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Refraction" />
@@ -65,7 +65,7 @@
                 android:text="Pinocytosis" />
 
             <RadioButton
-                android:id="@+id/answer2"
+                android:id="@+id/SHanswer2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Phagocytosis" />
@@ -109,7 +109,7 @@
                 android:text="Ampere" />
 
             <RadioButton
-                android:id="@+id/answer3"
+                android:id="@+id/SHanswer3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Watt" />
@@ -141,7 +141,7 @@
                 android:text="Capillaries" />
 
             <RadioButton
-                android:id="@+id/answer4"
+                android:id="@+id/SHanswer4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Arteries" />
@@ -167,7 +167,7 @@
                 android:text="Nuclear Fusion" />
 
             <RadioButton
-                android:id="@+id/answer5"
+                android:id="@+id/SHanswer5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Radioactive decay" />
