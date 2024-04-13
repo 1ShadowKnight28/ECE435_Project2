@@ -5,6 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#B598E8"
     tools:context=".StartPage">
 
     <TextView
@@ -15,6 +16,7 @@
         android:layout_marginTop="140dp"
         android:layout_marginEnd="133dp"
         android:text="Quiz Game"
+        android:textColor="#F4F0F0"
         android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -25,9 +27,9 @@
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:layout_marginStart="58dp"
-        android:layout_marginTop="203dp"
+        android:layout_marginTop="190dp"
         android:layout_marginEnd="50dp"
-        android:layout_marginBottom="160dp"
+        android:layout_marginBottom="163dp"
         app:layout_constraintBottom_toTopOf="@+id/textView2"
         app:layout_constraintEnd_toStartOf="@+id/historyBtn"
         app:layout_constraintStart_toStartOf="parent"
@@ -38,9 +40,9 @@
         android:id="@+id/historyBtn"
         android:layout_width="120dp"
         android:layout_height="120dp"
-        android:layout_marginTop="193dp"
+        android:layout_marginTop="190dp"
         android:layout_marginEnd="63dp"
-        android:layout_marginBottom="170dp"
+        android:layout_marginBottom="163dp"
         app:layout_constraintBottom_toTopOf="@+id/textView2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/geographyBtn"
@@ -76,6 +78,7 @@
         android:layout_marginStart="86dp"
         android:layout_marginTop="5dp"
         android:text="Geography"
+        android:textColor="#F8F5F5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/geographyBtn" />
 
@@ -86,6 +89,7 @@
         android:layout_marginTop="1dp"
         android:layout_marginEnd="98dp"
         android:text="History"
+        android:textColor="#F8F5F5"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/historyBtn" />
 
@@ -96,6 +100,7 @@
         android:layout_marginStart="98dp"
         android:layout_marginTop="2dp"
         android:text="Science"
+        android:textColor="#FAF4F4"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/scienceBtn" />
 
@@ -106,6 +111,7 @@
         android:layout_marginTop="2dp"
         android:layout_marginEnd="85dp"
         android:text="Pop Culture"
+        android:textColor="#F6F2F2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/popcultureBtn" />
 
